@@ -13,6 +13,9 @@ Outside of academics, I like to spend my time playing the guitar 🎸, listening
 
 <br>
 
+🌱 I’m currently learning [React.js](https://beta.reactjs.org/)
+
+<br>
 ## A little bit more about me 📈
 
 ---
