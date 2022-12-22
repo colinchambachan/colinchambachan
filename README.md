@@ -16,12 +16,12 @@ Outside of academics, I like to spend my time playing the guitar 🎸, listening
 🌱 I’m currently learning React.js, check out how I'm doing it [here](https://github.com/colinchambachan/chess-board-visualizer)! 
 
 <br>
-## A little bit more about me 📈
+A little bit more about me 📈
 
 ---
 <div align="center">
 
-[![A's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinchambachan)](https://github.com/colinchambachan/github-readme-stats)[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan)
+[![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan)
 
 </div>
 <!--
