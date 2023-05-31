@@ -12,8 +12,8 @@ Some of my interests are web development 🌐, game development 🎮, machine le
 Outside of academics, I like to spend my time playing the guitar 🎸, listening to music 🎧, or playing a variety of sports from volleyball 🏐 to basketball 🏀!
 
 <br>
-
-🌱 I’m currently learning backend development! 
+<!-- 
+🌱 I’m currently learning backend development!  -->
 
 <br>
 A little bit more about me 📈
