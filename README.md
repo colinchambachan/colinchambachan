@@ -24,6 +24,8 @@ A little bit more about me 📈
 [![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan)
 
 </div>
+
+<a href="#"><img src="https://visitcount.itsvg.in/api?id=colinchambachan2&icon=0&color=1" alt="profile-view-counter"/></a>
 <!--
 **colinchambachan/colinchambachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
