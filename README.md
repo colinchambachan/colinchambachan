@@ -25,7 +25,9 @@ A little bit more about me 📈
 
 </div>
 
-<a href="#"><img src="https://visitcount.itsvg.in/api?id=colinchambachan2&icon=0&color=1" alt="profile-view-counter"/></a>
+
+  <img src="https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false" />
+
 <!--
 **colinchambachan/colinchambachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
