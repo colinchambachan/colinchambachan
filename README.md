@@ -17,6 +17,7 @@ Outside of academics, I like to spend my time playing the guitar 🎸, listening
 
 <br>
 A little bit more about me 📈
+[![](https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 <div align="center">
@@ -26,7 +27,7 @@ A little bit more about me 📈
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!--
 **colinchambachan/colinchambachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
