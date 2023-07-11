@@ -25,7 +25,7 @@ A little bit more about me 📈
 [![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan)
 
 </div>
-<a href="https://visitcount.itsvg.in">
+<a >
   <img src="https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false" />
 </a>
 
