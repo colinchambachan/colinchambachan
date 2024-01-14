@@ -1,6 +1,6 @@
 # Hey, I'm Colin 👋
 
-Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓, looking to specialize in Software Engineering in my second year!
+Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
 
 There are two main reasons that drive my passion for programming:
 
