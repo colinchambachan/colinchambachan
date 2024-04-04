@@ -25,7 +25,7 @@ A little bit more about me 📈
 [![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan)
 
 </div>
-![](https://hit.yhype.me/github/profile?user_id=61240608)
+[![]](https://hit.yhype.me/github/profile?user_id=61240608)
 <!-- 
 <a >
   <img src="https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false" />
