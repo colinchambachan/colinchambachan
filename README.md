@@ -10,7 +10,7 @@ There are two main reasons that drive my passion for programming:
 Some of my interests are web development 🌐, machine learning 🧠, and competitive programming 🎯. I'm always looking to learn new things that help me diversify my skillset and capabilities.
 
 Outside of academics, I like to spend my time playing the guitar 🎸, or playing a variety of sports from volleyball 🏐 to basketball 🏀!
-![](https://komarev.com/ghpvc/?colinchambachan)
+
 
 <br>
 <!-- 
