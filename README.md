@@ -4,12 +4,12 @@ Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
 
 There are two main reasons that drive my passion for programming:
 
-1. Programming is all about how we can take our "superficial" and "intangible" ideas and create logical explanations so that we can effectively communicate them to others and computers.
-2. Building Software, like creating music, involves taking small individual components and connecting them together to create an amazing result, a process that requires both creativity and the attention for detail and technique.
+1. Programming is all about how we can take our "superficial" concepts and seemingly-intuitive ideas and create logical explanations so that we can effectively communicate them to others and computers.
+2. Building Software, like creating music, involves taking small individual components and connecting them together to create a larger result, a process that requires both creativity and the attention for detail and technique.
 
-Some of my interests are web development 🌐, game development 🎮, machine learning 🧠, and competitive programming 🎯. I'm always looking to learn new things that help me diversify my skillset and capabilities.
+Some of my interests are web development 🌐, machine learning 🧠, and competitive programming 🎯. I'm always looking to learn new things that help me diversify my skillset and capabilities.
 
-Outside of academics, I like to spend my time playing the guitar 🎸, listening to music 🎧, or playing a variety of sports from volleyball 🏐 to basketball 🏀!
+Outside of academics, I like to spend my time playing the guitar 🎸, or playing a variety of sports from volleyball 🏐 to basketball 🏀!
 
 <br>
 <!-- 
