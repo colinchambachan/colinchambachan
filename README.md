@@ -12,10 +12,10 @@ Feel free to reach out on Linkedin or at [chambacc@mcmaster.ca](mailto:chambacc@
 
 <br>
 
-Languages:
+<!-- Languages: -->
 
 <!-- [![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinchambachan&layout=compact)](https://github.com/colinchambachan/colinchambachan) -->
-<div >
+<!-- <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
@@ -42,7 +42,7 @@ Tech:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-</div>
+</div> -->
 
 <!-- <a >
   <img src="https://visitcount.itsvg.in/api?id=colinchambachan&label=Profile%20Views&color=1&icon=0&pretty=false" />
