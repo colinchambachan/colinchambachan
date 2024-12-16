@@ -6,11 +6,9 @@ Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
 
 Feel free to reach out on Linkedin or at [chambacc@mcmaster.ca](mailto:chambacc@mcmaster.ca)
 
-<br>
-<!-- 
-🌱 I’m currently learning backend development!  -->
+<!-- <br>
 
-<br>
+<br> -->
 
 <!-- Languages: -->
 
