@@ -2,7 +2,7 @@ Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
 
 - Currently working at RBC Borealis on Data & AI Projects
 - Interested in working on Web, Data, and/or AI teams
-- Developer [@MIST](https://github.com/McMasterNEUDOSE) and VP [@GDG McMaster](https://github.com/DSC-McMaster-U)
+- VP [@GDG McMaster](https://github.com/DSC-McMaster-U) and Prev Developer [@MIST](https://github.com/McMasterNEUDOSE)  
 - Find out more on my website [colinchambachan.me](https://colinchambachan.me/)
 
 Feel free to reach out on Linkedin or at [chambacc@mcmaster.ca](mailto:chambacc@mcmaster.ca)
