@@ -1,6 +1,6 @@
 Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
 
-- Incoming SWE Intern @ Google
+- Incoming SWE Intern @Google
 - Recently worked at RBC Borealis on Data & AI Projects
 - Interested in working on Web, Data, and/or AI teams
 - President [@GDG McMaster](https://github.com/DSC-McMaster-U) and Prev. Developer [@MIST](https://github.com/McMasterNEUDOSE)  
