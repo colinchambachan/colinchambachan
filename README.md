@@ -1,4 +1,4 @@
-Hey 👋 ! I'm Colin, a Software Engineering student at McMaster University 🎓
+Hey! I'm Colin, a Software Engineering student at McMaster University
 
 - Incoming SWE Intern @ Google
 - Recently worked at RBC Borealis on Data & AI Projects
