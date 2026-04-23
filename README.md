@@ -5,7 +5,7 @@ Hey! I'm Colin, a Software Engineering student at McMaster University
 - President [@GDG McMaster](https://github.com/DSC-McMaster-U) and Prev. Developer [@MIST](https://github.com/McMasterNEUDOSE)
 - Find out more on my website [colinchambachan.com](https://colinchambachan.com/)
 
-Feel free to reach out on Linkedin or by mail:
+Feel free to reach out on Linkedin or by mail:  
 [hello@colinchambachan.com](mailto:hello@colinchambachan.com)
 
 <!-- <br>
